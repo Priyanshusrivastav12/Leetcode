@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0278-first-bad-version) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

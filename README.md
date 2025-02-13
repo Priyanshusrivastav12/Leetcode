@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -78,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Sorting
+|  |
+| ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->

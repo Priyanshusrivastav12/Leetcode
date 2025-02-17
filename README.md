@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0917-boats-to-save-people](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->

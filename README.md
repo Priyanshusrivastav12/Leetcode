@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0907-koko-eating-bananas](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0958-sort-array-by-parity-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-boats-to-save-people](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0958-sort-array-by-parity-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0958-sort-array-by-parity-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String Matching
 |  |

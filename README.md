@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

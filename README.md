@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0907-koko-eating-bananas](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0278-first-bad-version) |
 | [0907-koko-eating-bananas](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Interactive

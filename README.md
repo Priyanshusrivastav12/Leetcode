@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [1078-remove-outermost-parentheses](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Hash Table
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

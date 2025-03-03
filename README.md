@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Hash Table
@@ -147,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

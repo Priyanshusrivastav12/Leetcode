@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |

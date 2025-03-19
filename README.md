@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2159-two-out-of-three) |
+| [2634-minimum-common-value](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0278-first-bad-version) |
 | [0907-koko-eating-bananas](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [2634-minimum-common-value](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2634-minimum-common-value) |
 ## Interactive
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2634-minimum-common-value](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2159-two-out-of-three) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2634-minimum-common-value](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0907-koko-eating-bananas](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -156,6 +157,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

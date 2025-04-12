@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2159-two-out-of-three) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -172,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

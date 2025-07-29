@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -204,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0319-bulb-switcher) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

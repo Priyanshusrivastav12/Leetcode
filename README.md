@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0904-leaf-similar-trees](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -210,9 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0319-bulb-switcher) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->

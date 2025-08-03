@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Priyanshusrivastav12/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
